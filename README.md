@@ -21,6 +21,6 @@
 # Contributers
   [remonsec](https://github.com/remonsec),
   [manpreet](https://github.com/manpreet406)
-  [m-tabarik](https://github.com/m-tabarik}
+  [m-tabarik](https://github.com/m-tabarik)
   [MayankPandey01](https://github.com/MayankPandey01)
   [saadibabar](https://github.com/saadibabar)
